@@ -25,6 +25,7 @@ Soybean Production by Top 5 States and Yield Efficiency
 Oilseed Production in Major States
 Impact of Area Cultivated on Production (Rice, Wheat, Maize)
 Rice vs. Wheat Yield Across State
+![image](https://github.com/user-attachments/assets/a8fac761-1004-4699-901c-55e97fd10e67)
 # 🗳️SQL Connection
 Create SQl database: Create SQL and python integration using Mysql,
 Create database and table,
