@@ -25,7 +25,6 @@ Soybean Production by Top 5 States and Yield Efficiency
 Oilseed Production in Major States
 Impact of Area Cultivated on Production (Rice, Wheat, Maize)
 Rice vs. Wheat Yield Across State
-![image](https://github.com/user-attachments/assets/a8fac761-1004-4699-901c-55e97fd10e67)
 # 🗳️SQL Connection
 Create SQl database: Create SQL and python integration using Mysql,
 Create database and table,
@@ -41,7 +40,7 @@ Running query using Mysql.
 8.Total Area Cultivated for Oilseeds in Each State
 9.Districts with the Highest Rice Yield
 10.Compare the Production of Wheat and Rice for the Top 5 States Over 10 Years
-#📊Power BI
+# 📊Power BI
 1. Prepare Your Data
 Ensure you have structured data (CSV, Excel, SQL database, etc.) with clear headers and consistent data formats.
 2. Load Data into Power BI
